@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# site para acessar o projeto no ar -> <a href="https://netflix-clone-by-gabriel.netlify.app/">https://netflix-clone-by-gabriel.netlify.app/</a>
+
+
+
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
